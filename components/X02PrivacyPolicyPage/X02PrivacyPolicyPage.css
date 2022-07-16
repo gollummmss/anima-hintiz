@@ -1,0 +1,202 @@
+.x02-privacy-policy-page {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 4323px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.overlap-group-6 {
+  height: 6534px;
+  margin-top: -2550px;
+  position: relative;
+  width: 2459px;
+}
+
+.x02-privacy-policy-page-1 {
+  height: 4323px;
+  left: 1019px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.hero-section-4 {
+  align-items: center;
+  background-image: url(/static/img/hero-section-1@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  height: 3984px;
+  left: 0;
+  position: absolute;
+  top: 2550px;
+  width: 1440px;
+}
+
+.privacy-policy-wrapper {
+  align-items: flex-start;
+  background-color: #ffffff1a;
+  border-radius: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  height: min-content;
+  justify-content: center;
+  margin-top: 84px;
+  overflow: hidden;
+  padding: 80px 75px 64px;
+  width: min-content;
+}
+
+.title-wrapper-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  height: min-content;
+  width: min-content;
+}
+
+.title-wrapper-2,
+.information {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: min-content;
+  width: min-content;
+}
+
+.hintiz-terms-and-conditions {
+  color: var(--white);
+  font-family: var(--font-family-alumni_sans);
+  font-size: 70px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-top: -1px;
+  min-width: 609px;
+  white-space: nowrap;
+}
+
+.last-updated-july-2022 {
+  color: var(--white);
+  font-family: var(--font-family-alumni_sans);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: -0.20px;
+  line-height: 27px;
+  min-width: 160px;
+  white-space: nowrap;
+}
+
+.hintiz-is-a-collecti {
+  letter-spacing: -0.20px;
+  line-height: 27px;
+  width: 650px;
+}
+
+.collect-info-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  height: 1146px;
+  justify-content: center;
+  padding: 2px 0px 42px;
+  width: min-content;
+}
+
+.ownership {
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: -60px;
+  white-space: nowrap;
+}
+
+.collect-info {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: min-content;
+  margin-bottom: -59px;
+  margin-top: -5px;
+  width: min-content;
+}
+
+.you {
+  letter-spacing: -0.20px;
+  line-height: 27px;
+  margin-top: -1px;
+  width: 649.6px;
+}
+
+.personal-use-subjec,
+.you-agree-that-our-t,
+.you-acknowledge-and,
+.a-to-the-extent-tha {
+  letter-spacing: -0.20px;
+  line-height: 27px;
+  width: 649.6px;
+}
+
+.commercial-use-subj {
+  color: var(--white);
+  font-family: var(--font-family-alumni_sans);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: -0.06px;
+  line-height: 28px;
+  width: 649.6px;
+}
+
+.information-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: min-content;
+  justify-content: center;
+  padding: 4px 0px;
+  width: min-content;
+}
+
+.ation {
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.cookies-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: min-content;
+  justify-content: center;
+  padding: 0px 0px 42px;
+  width: min-content;
+}
+
+.frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: min-content;
+  padding: 0px 0px 44px;
+  width: min-content;
+}
+
+.risk-assumption {
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+

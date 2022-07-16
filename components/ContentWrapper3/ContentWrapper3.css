@@ -1,0 +1,20 @@
+.content-wrapper-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  height: 208px;
+  width: 433px;
+}
+
+.collectables-3-d-prin {
+  letter-spacing: 0;
+  line-height: 45px;
+  margin-right: -118px;
+  margin-top: -1px;
+}
+
+.content-wrapper-8.content-wrapper-9 {
+  margin-bottom: -12px;
+}
+

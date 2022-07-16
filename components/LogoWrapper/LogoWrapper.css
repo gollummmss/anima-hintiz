@@ -1,0 +1,29 @@
+.logo-wrapper-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  justify-content: center;
+  padding: 8px 0px 0px;
+  width: min-content;
+}
+
+.frame-1 {
+  height: 26.96px;
+  margin-top: -3.05e-05px;
+  min-width: 185px;
+}
+
+.a-999-piece-custom-a-1 {
+  color: var(--blackblack-400);
+  font-weight: 400;
+  line-height: 28px;
+  width: 451px;
+}
+
+.logo-wrapper-1.logo-wrapper-2 .frame-1 {
+  height: 26.96px;
+  margin-top: unset;
+}
+

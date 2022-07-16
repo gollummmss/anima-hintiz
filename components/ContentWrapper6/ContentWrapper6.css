@@ -1,0 +1,19 @@
+.content-wrapper-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  height: 58px;
+  margin-right: 102px;
+  margin-top: 1px;
+  width: min-content;
+}
+
+.reward-earn-passive {
+  letter-spacing: 0;
+  line-height: 45px;
+  margin-bottom: -136px;
+  margin-top: -1px;
+  width: 422px;
+}
+

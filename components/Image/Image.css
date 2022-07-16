@@ -1,0 +1,25 @@
+.image-4,
+.image-5,
+.ultra-race,
+.image-6,
+.image-7,
+.img {
+  height: 252px;
+  min-width: 278px;
+  position: relative;
+}
+
+.bg-1,
+.rectangle-10,
+.rectangle-10-1,
+.bg-2,
+.bg-3,
+.bg-4 {
+  height: 242px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 278px;
+}
+

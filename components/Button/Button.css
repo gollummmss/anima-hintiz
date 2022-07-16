@@ -1,0 +1,26 @@
+.button {
+  align-items: center;
+  background-color: var(--blackblack-200);
+  border-radius: 200px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  overflow: hidden;
+  padding: 12px 24px;
+  width: min-content;
+}
+
+.view-on-opensea {
+  color: var(--blackblack);
+  cursor: pointer;
+  font-family: var(--font-family-fjalla_one);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 400;
+  letter-spacing: 0.28px;
+  line-height: 16px;
+  margin-top: -1px;
+  min-width: 127px;
+  text-align: center;
+  white-space: nowrap;
+}
+

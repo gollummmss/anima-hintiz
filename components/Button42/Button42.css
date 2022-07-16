@@ -1,0 +1,23 @@
+.button-3,
+.button-4 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 200px;
+  display: flex;
+  gap: 10px;
+  height: min-content;
+  overflow: hidden;
+  padding: 12px 24px;
+  width: min-content;
+}
+
+.view-on-opensea-3,
+.view-on-opensea-4 {
+  letter-spacing: 0.28px;
+  line-height: 16px;
+  margin-top: -1px;
+  min-width: 137px;
+  text-align: center;
+  white-space: nowrap;
+}
+

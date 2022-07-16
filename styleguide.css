@@ -1,0 +1,279 @@
+:root { 
+  --blackblack: #000000;
+  --blackblack-200: #f7f9fa;
+  --blackblack-300: #dfdfdf;
+  --blackblack-400: #c0c0c0;
+  --blackblack-600: #929292;
+  --blackblack-700: #323232;
+  --blackblack-800: #151616;
+  --blueblue-700: #2081e2;
+  --hunter-green: #151b16;
+  --white: #ffffff33;
+ 
+  --font-size-l: 55px;
+  --font-size-m: 28px;
+  --font-size-s: 24px;
+  --font-size-xs: 20px;
+  --font-size-xxs: 16px;
+  --font-size-xxxs: 15px;
+  --font-size-xxxxs: 14px;
+ 
+  --font-family-alumni_sans: "Alumni Sans", Helvetica;
+  --font-family-fjalla_one: "Fjalla One", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+}
+.textxl {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+}
+
+.textsmall-medium {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.textsmall-regular {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.texttiny-bold {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.texttiny-regular {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.fjallaone-normal-snow-drift-55px {
+  color: var(--blackblack-200);
+  font-family: var(--font-family-fjalla_one);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.alumnisans-normal-white-28px {
+  color: var(--white);
+  font-family: var(--font-family-alumni_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-snow-drift-16px {
+  color: var(--blackblack-200);
+  font-family: var(--font-family-fjalla_one);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-snow-drift-18px {
+  color: var(--blackblack-200);
+  font-family: var(--font-family-fjalla_one);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-snow-drift-20px {
+  color: var(--blackblack-200);
+  font-family: var(--font-family-fjalla_one);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-snow-drift-22px {
+  color: var(--blackblack-200);
+  font-family: var(--font-family-fjalla_one);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-hunter-green-24px {
+  color: var(--hunter-green);
+  font-family: var(--font-family-fjalla_one);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-snow-drift-15px {
+  color: var(--blackblack-200);
+  font-family: var(--font-family-fjalla_one);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-hunter-green-20px {
+  color: var(--hunter-green);
+  font-family: var(--font-family-fjalla_one);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-white-26px {
+  color: var(--white);
+  font-family: var(--font-family-fjalla_one);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-mountain-mist-15px {
+  color: var(--blackblack-600);
+  font-family: var(--font-family-fjalla_one);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.alumnisans-semi-bold-white-35px {
+  color: var(--white);
+  font-family: var(--font-family-alumni_sans);
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.fjallaone-normal-silver-70px {
+  color: var(--blackblack-400);
+  font-family: var(--font-family-fjalla_one);
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-silver-30px {
+  color: var(--blackblack-400);
+  font-family: var(--font-family-fjalla_one);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-silver-28px {
+  color: var(--blackblack-400);
+  font-family: var(--font-family-fjalla_one);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-fjalla_one);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.alumnisans-semi-bold-white-55px {
+  color: var(--white);
+  font-family: var(--font-family-alumni_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.fjallaone-normal-snow-drift-110px {
+  color: var(--blackblack-200);
+  font-family: var(--font-family-fjalla_one);
+  font-size: 110px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-snow-drift-28px {
+  color: var(--blackblack-200);
+  font-family: var(--font-family-fjalla_one);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-snow-drift-100px {
+  color: var(--blackblack-200);
+  font-family: var(--font-family-fjalla_one);
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-snow-drift-70px {
+  color: var(--blackblack-200);
+  font-family: var(--font-family-fjalla_one);
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-fjalla_one);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-white-22px {
+  color: var(--white);
+  font-family: var(--font-family-fjalla_one);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fjallaone-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-fjalla_one);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-black-14px {
+  color: var(--blackblack);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.alumnisans-bold-white-28px {
+  color: var(--white);
+  font-family: var(--font-family-alumni_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-1px-blackblack-200 {
+  border: 1px solid var(--blackblack-200);
+}
+
+.border-1px-blackblack-700 {
+  border: 1px solid var(--blackblack-700);
+}

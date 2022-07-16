@@ -1,0 +1,26 @@
+.button-1 {
+  align-items: center;
+  background-color: var(--blueblue-700);
+  border-radius: 200px;
+  cursor: pointer;
+  display: flex;
+  gap: 12px;
+  height: min-content;
+  overflow: hidden;
+  padding: 13px 24px 14px;
+  width: 248px;
+}
+
+.opensea-white-logo {
+  height: 21px;
+  min-width: 24px;
+}
+
+.view-on-opensea-1 {
+  letter-spacing: 0.32px;
+  line-height: 16px;
+  min-width: 118px;
+  text-align: center;
+  white-space: nowrap;
+}
+

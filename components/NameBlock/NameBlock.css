@@ -1,0 +1,9 @@
+.x-block {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+

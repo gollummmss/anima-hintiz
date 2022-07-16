@@ -1,0 +1,22 @@
+.content-wrapper-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  height: 102px;
+  margin-top: 1px;
+  width: min-content;
+}
+
+.ownership-own-a-phys {
+  letter-spacing: 0;
+  line-height: 45px;
+  margin-bottom: -2px;
+  margin-top: -1px;
+  width: 272px;
+}
+
+.content-wrapper-4.content-wrapper-5 {
+  margin-top: unset;
+}
+

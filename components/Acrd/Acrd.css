@@ -1,0 +1,21 @@
+.acrd {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  gap: 800px;
+  height: min-content;
+  padding: 15px;
+  position: relative;
+  width: min-content;
+}
+
+.frame-16 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.acrd.acrd-1 {
+  gap: 799px;
+}
+

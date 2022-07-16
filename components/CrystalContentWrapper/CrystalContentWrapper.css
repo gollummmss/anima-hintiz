@@ -1,0 +1,19 @@
+.crystal-content-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 556px;
+  overflow-x: hidden;
+  padding: 0px 0px 12px;
+  position: relative;
+  width: 605px;
+}
+
+.physical-2 {
+  height: 132px;
+  letter-spacing: 0;
+  line-height: 110px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+

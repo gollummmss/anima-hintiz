@@ -1,0 +1,170 @@
+.footer-section {
+  align-items: flex-start;
+  background-color: var(--blackblack);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 321px;
+  justify-content: center;
+  padding: 15px 72px 68px;
+  width: 1440px;
+}
+
+.footer-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  margin-bottom: -25.98px;
+  margin-top: -25.98px;
+  padding: 16px 0px 0px;
+  width: 1296px;
+}
+
+.footer-wrapper {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  width: 1247px;
+}
+
+.left-content {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 143px;
+  height: min-content;
+  width: min-content;
+}
+
+.logo-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: min-content;
+  justify-content: center;
+  padding: 8px 0px 0px;
+  width: min-content;
+}
+
+.frame {
+  height: 26.96px;
+  min-width: 185px;
+}
+
+.a-999-piece-custom-a {
+  color: var(--blackblack-400);
+  font-family: var(--font-family-fjalla_one);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: -0.20px;
+  line-height: 28px;
+  width: 451px;
+}
+
+.built-by-nikolai-bai {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 108px;
+  white-space: nowrap;
+}
+
+.right-content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  padding: 8px 0px 0px 4px;
+  width: min-content;
+}
+
+.pages-wrapper {
+  align-items: flex-start;
+  display: flex;
+  gap: 44px;
+  width: min-content;
+}
+
+.site {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: min-content;
+  width: min-content;
+}
+
+.site-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  min-width: 22px;
+  white-space: nowrap;
+}
+
+.page-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  justify-content: center;
+  width: min-content;
+}
+
+.place-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  min-width: 34px;
+  white-space: nowrap;
+}
+
+.place-2 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 45px;
+  white-space: nowrap;
+}
+
+.terms-conditions {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 113px;
+  white-space: nowrap;
+}
+
+.privacy-policy {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-width: 81px;
+  white-space: nowrap;
+}
+
+.icons {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  height: min-content;
+  width: min-content;
+}
+
+.discord {
+  height: 19.33px;
+  margin-bottom: -8.11e-05px;
+  margin-top: -8.11e-05px;
+  min-width: 20px;
+}
+
+.icon-twitter-1 {
+  cursor: pointer;
+  height: 16.55px;
+  margin-top: -1.72e-05px;
+  min-width: 20px;
+}
+

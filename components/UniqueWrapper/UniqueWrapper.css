@@ -1,0 +1,45 @@
+.unique-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  height: min-content;
+  position: relative;
+  width: 698px;
+}
+
+.special-concept {
+  align-items: flex-start;
+  display: flex;
+  gap: 44px;
+  height: 150px;
+  position: relative;
+  width: 685px;
+}
+
+.concept {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: min-content;
+  margin-right: -15px;
+  padding: 0px 103px 0px 90px;
+  width: 374px;
+}
+
+.earn {
+  letter-spacing: 0;
+  line-height: 45px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.earn-passive-income {
+  height: 89px;
+  letter-spacing: -0.20px;
+  line-height: 27px;
+  margin-right: -101px;
+  width: 282px;
+}
+

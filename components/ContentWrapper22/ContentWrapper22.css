@@ -1,0 +1,33 @@
+.content-wrapper-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: min-content;
+  margin-bottom: -35.22px;
+  width: 412px;
+}
+
+.hint {
+  letter-spacing: -0.20px;
+  line-height: 27px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.as-senior-product-de {
+  align-self: stretch;
+  letter-spacing: -0.20px;
+  line-height: 27px;
+}
+
+.content-wrapper-10.content-wrapper-11 {
+  margin-bottom: unset;
+}
+
+.content-wrapper-10.content-wrapper-12 {
+  height: 207px;
+  margin-bottom: -56.4px;
+  margin-right: -137.49px;
+}
+

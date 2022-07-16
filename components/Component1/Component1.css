@@ -1,0 +1,13 @@
+.component-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: min-content;
+  margin-bottom: -28px;
+  margin-left: -92.5px;
+  margin-right: -92.5px;
+  position: relative;
+  width: min-content;
+}
+

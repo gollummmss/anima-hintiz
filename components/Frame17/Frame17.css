@@ -1,0 +1,20 @@
+.frame-17-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 55px;
+  height: min-content;
+  width: min-content;
+}
+
+.when-is-the-mint-date {
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: -1px;
+  min-width: 235px;
+  white-space: nowrap;
+}
+
+.frame-17-1.frame-17 .when-is-the-mint-date {
+  min-width: 237px;
+}
+
